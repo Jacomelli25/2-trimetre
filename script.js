@@ -6,38 +6,38 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enuciado: "Pergunta 1", 
+    enunciado: "o que você gosta de fazer?", 
     alternativas: [
-       "Alternativa 1",
-      "alternativa 2",
+       "sair",
+      "ficar em casa?",
       ]
   },
    {
-    enuciado: "Pergunta 2", 
+    enunciado: "você gosta de esportes?", 
     alternativas: [
-       "Alternativa 1",
-      "alternativa 2",
+       "sim",
+      "não",
       ]
   },
    {
-    enuciado: "Pergunta 3", 
+    enunciado: "você namora?", 
     alternativas: [
-       "Alternativa 1",
-      "alternativa 2",
+       "sim",
+      "não",
       ]
   },
    {
-    enuciado: "Pergunta 4", 
+    enunciado: "qunatos anos vc tem?", 
     alternativas: [
-       "Alternativa 1",
-      "alternativa 2",
+       "16",
+      "18",
       ]
   },
    {
-    enuciado: "Pergunta 5", 
+    enunciado: "você ja viajou?", 
     alternativas: [
-       "Alternativa 1",
-      "alternativa 2",
+       "sim",
+      "não",
       ]
   },
 ];  
